@@ -21,7 +21,7 @@
 #include <algorithm>
 using namespace std;
 #define MAXCLIENT 5
-
+//L Lawrence & Eileen Yao
 //GLOBALS TO STORE SOCKET DATA
 int sockfd, newsockfd, maxfd, flag;
 vector<pair<int,int>> cli_soc;
